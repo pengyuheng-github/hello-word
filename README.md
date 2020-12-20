@@ -1,2 +1,2 @@
 # hello-word
-just a test
+this is my first readme and I am trying to edit it;
